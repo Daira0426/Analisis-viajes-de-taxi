@@ -23,4 +23,22 @@ Procesamiento de Datos:
 - Python
 - Pandas
 - NumPy
+
+## Resultados
+
+* Barrios más visitados:
+
+El Loop se posiciona como el destino principal, con mas de 10.000 viajes.
+
+Otros sectores con alta demanda son River North, Streererville y West Loop.
+
+* Empresas de taxi más activas:
+
+Flash Cab encabeza la lista con 19,558 trayectos realizados en solo dos días de noviembre de 2017.
+
+* Prueba de hipótesis:
+
+El análisis estadístico no permitió rechazar la hipótesis nula, debido a que hay una diferencia significativa en la duración promedio de los viajes.
+
+
 - Matplotlib
