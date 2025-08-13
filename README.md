@@ -17,3 +17,10 @@ Pruebas de Hipótesis:
 Procesamiento de Datos:
 
 * Depuración del conjunto de datos, eliminación de registros duplicados y ajuste de formatos y tipos de datos.
+
+## 🔧 Herramientas
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
