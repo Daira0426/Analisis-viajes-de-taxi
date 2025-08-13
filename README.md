@@ -23,6 +23,7 @@ Procesamiento de Datos:
 - Python
 - Pandas
 - NumPy
+- Matplotlib
 
 ## Resultados
 
@@ -41,4 +42,8 @@ Flash Cab encabeza la lista con 19,558 trayectos realizados en solo dos días de
 El análisis estadístico no permitió rechazar la hipótesis nula, debido a que hay una diferencia significativa en la duración promedio de los viajes.
 
 
-- Matplotlib
+
+
+
+
+
