@@ -41,7 +41,11 @@ Flash Cab encabeza la lista con 19,558 trayectos realizados en solo dos días de
 
 El análisis estadístico no permitió rechazar la hipótesis nula, debido a que hay una diferencia significativa en la duración promedio de los viajes.
 
+## Conclusiones
 
+Los pasajeros prefieren destinos céntricos como **Loop** y utilizan empresas consolidadas como **Flash Cab**.
+Aunque la lluvia no afecta significativamente la duración de los viajes, **Zuber** puede optimizar sus servicios.
+Para lograrlo, la compañía debe centrarse en los destinos y empresas más populares.
 
 
 
