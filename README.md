@@ -43,12 +43,9 @@ El análisis estadístico no permitió rechazar la hipótesis nula, debido a que
 
 ## Conclusiones
 
-- No todas las fuentes de adquisición fueron rentables: algunas tenían un CAC elevado y no lograron cubrir los costos con el LTV generado.
-
-- Se identificaron fuentes de marketing con ROI positivo, recomendadas para incrementar la inversión.
-
-- El análisis permitió definir una estrategia más eficiente de asignación de presupuesto, reduciendo gastos innecesarios y mejorando la rentabilidad de Showz.
-
+Los pasajeros prefieren destinos céntricos como **Loop** y utilizan empresas consolidadas como **Flash Cab**.
+Aunque la lluvia no afecta significativamente la duración de los viajes, **Zuber** puede optimizar sus servicios.
+Para lograrlo, la compañía debe centrarse en los destinos y empresas más populares.
 
 
 
